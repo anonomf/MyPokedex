@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allan Felix</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [MyPokedex](https://github.com/anonomf/MyPokedex)
+- 🔭 I’m currently working on [MyPokedex](https://github.com/anonomf/myPokedex)
 
 - 👨‍💻 All of my projects are available at [https://github.com/anonomf](https://github.com/anonomf)
 
